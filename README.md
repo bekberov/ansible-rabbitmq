@@ -1,5 +1,5 @@
 # ansible-rabbitmq
-Ansibl script for RabbitMQ installation
+Ansible script for RabbitMQ installation
 
 
 To launch your playbook :
